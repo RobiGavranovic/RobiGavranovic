@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Slovenia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdrc211NnNqeG02NThzYXVmOHB4cnRmOGU0cXYwNHhsOGpuczdjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [SPH Fluid Simulation](https://github.com/RobiGavranovic/SPH-Fluid-Simulation)
+- 🔭 I’m currently looking for a job
 
 - 📫 How to reach me **robertgavranovic.mail@gmail.com**
 
